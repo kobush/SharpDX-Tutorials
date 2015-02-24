@@ -29,7 +29,7 @@ namespace WinFormsApp
             base.Draw(gameTime);
 
             // clear screen
-            GraphicsDevice.Clear(Color.Coral);
+            GraphicsDevice.Clear(Color.CornflowerBlue);
         }
     }
 }

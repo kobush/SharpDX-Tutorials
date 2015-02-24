@@ -107,7 +107,7 @@ namespace WinFormsApp
             float space = 3f;
 
             // show wireframe only
-            //GraphicsDevice.SetRasterizerState(GraphicsDevice.RasterizerStates.WireFrameCullNone);
+            //TODO: GraphicsDevice.SetRasterizerState(GraphicsDevice.RasterizerStates.WireFrameCullNone);
 
             for (int y = 0; y < rows; y++)
             {

@@ -112,7 +112,7 @@ namespace WinFormsApp
             //GraphicsDevice.SetRasterizerState(GraphicsDevice.RasterizerStates.CullNone);
 
             //TODO: show wireframe only
-            GraphicsDevice.SetRasterizerState(GraphicsDevice.RasterizerStates.WireFrameCullNone);
+            //GraphicsDevice.SetRasterizerState(GraphicsDevice.RasterizerStates.WireFrameCullNone);
 // ================================== NEW CODE END ==================================
 
             // apply effect
